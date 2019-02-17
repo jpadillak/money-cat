@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.421
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MoneyCat.API", "MoneyCat.API\MoneyCat.API.csproj", "{F3B592BF-5FDA-4B01-8FA0-5E1B5B775EB2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyCat.API.NUnit", "MoneyCat.API.NUnit\MoneyCat.API.NUnit.csproj", "{725D5226-E059-4CFD-A072-C8ACB96378B9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F3B592BF-5FDA-4B01-8FA0-5E1B5B775EB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3B592BF-5FDA-4B01-8FA0-5E1B5B775EB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3B592BF-5FDA-4B01-8FA0-5E1B5B775EB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{725D5226-E059-4CFD-A072-C8ACB96378B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{725D5226-E059-4CFD-A072-C8ACB96378B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{725D5226-E059-4CFD-A072-C8ACB96378B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{725D5226-E059-4CFD-A072-C8ACB96378B9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
